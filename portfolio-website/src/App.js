@@ -43,7 +43,7 @@ function App() {
         <div class="container text-center">
           <h1>Frankie Clipsham</h1>
           <p>
-            Hi, I'm Frankie, a first class Computer Science graduate from
+            Hi, I'm Frankie, a first class Computer Science BSc graduate from
             Newcastle University.
           </p>
         </div>
@@ -184,7 +184,7 @@ function App() {
         </div>
       </div>
 
-      <div class="c1 container-fluid bg-3 text-center">
+      <div class="c1 container-fluid bg-3 text-center" style={{height:"50%"}}>
         <h3 style={{ marginBottom: 0 }}>
           Here are some of the projects I have been working on throughout
           university and in my free time.
@@ -236,9 +236,9 @@ function App() {
                     Movie smash was the first project I decided to do myself, I
                     worked on this project over lockdown and the following
                     months. The concept is based on Mark Zuckerberg's Face Smash
-                    which compared women. However, in our Movie Smash users pick
+                    which compared and ranked female students at Harvard University and was the inception of Facebook. However, in our Movie Smash users pick
                     between which movie they prefer this influences each movie's
-                    ranking (or elo).
+                    ranking (or elo). Movies are then displayed in a table based on their ranking from highest to lowest based on elo.
                   </p>
                   <ul class="list-group">
                     <li class="list-group-item">
@@ -679,9 +679,11 @@ function App() {
         </div>
       </div>
 
-      <div class="jumbotron" style={{ background: "#89c2d9" }}></div>
-      <footer style={{ textAlign: "center" }}>
-        <strong>Frankie Clipsham © 2023 All Rights Reserved</strong>
+      <div class="jumbotron" style={{ background: "#7AB7D1"}}></div>
+      <footer className="footer">
+        <div class="container">
+          <strong>Frankie Clipsham © 2023</strong>
+        </div>
       </footer>
     </div>
   );
