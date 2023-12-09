@@ -680,7 +680,7 @@ function App() {
             </div>
           </div>
         </div>
-        <div class="row">
+        {/* <div class="row">
           <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
             <div class="panel panel-default">
               <div class="panel-heading">
@@ -816,7 +816,7 @@ function App() {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
 
       <div class="jumbotron" style={{ background: "#7AB7D1" }}></div>
