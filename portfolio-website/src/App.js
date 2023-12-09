@@ -29,6 +29,15 @@ function App() {
             </li>
             <li>
               <a
+                href="https://frank-64.github.io/ToBeFrank/"
+                data-toggle="tooltip"
+                title="Tech Blog"
+              >
+                <i class="fa fa-2x fa-book"></i>
+              </a>
+            </li>
+            <li>
+              <a
                 href="mailto:fclipsham@gmail.com"
                 data-toggle="tooltip"
                 title="Email Me"
