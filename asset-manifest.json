@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frank-64/portfolio-website/static/css/main.e35e5ee9.css",
+    "main.js": "/frank-64/portfolio-website/static/js/main.6a761e9c.js",
+    "index.html": "/frank-64/portfolio-website/index.html",
+    "main.e35e5ee9.css.map": "/frank-64/portfolio-website/static/css/main.e35e5ee9.css.map",
+    "main.6a761e9c.js.map": "/frank-64/portfolio-website/static/js/main.6a761e9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e35e5ee9.css",
+    "static/js/main.6a761e9c.js"
+  ]
+}
